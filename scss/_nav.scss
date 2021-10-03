@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto' , sans-serif;
+    
+    .logo {
+        margin-left: 45%;
+        margin-bottom: 2%;
+    }
+    
+    header {
+        margin-bottom: 30px;
+    }
+    
+    .hyp {
+        text-decoration: none;
+        color: white;
+    }
+    
+    nav ul {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .navegador ul li {
+        padding: 5px;
+        list-style-type: none;
+        background-color: rgb(231, 60, 88);
+        text-align: center;
+        width: 300px;  
+        font-size: 20px;
+        font-weight: 100;   
+    }
+}
+
