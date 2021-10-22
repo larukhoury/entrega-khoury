@@ -14,13 +14,14 @@ body {
     }
 
     .texto1 {
-        color: rgb(231, 60, 88);
+        color: #eb098d;
         font-size: 20px;
         text-align: center;
         font-style: italic;
         font-weight: 300;
-        width: 400px;
-        text-transform: uppercase; 
+        width: 100%;
+        text-transform: uppercase;
+        justify-content: center;
     }
 } 
 
@@ -59,8 +60,7 @@ body {
 
 #video  {
     grid-area: video;
-    justify-self: center;
-   
+    justify-self: center; 
     
 }
 
